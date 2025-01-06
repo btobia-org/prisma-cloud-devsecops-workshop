@@ -1,4 +1,4 @@
-# Welcome
+# Welcome Jan 2025 x2 
 
 This workshop will demonstrate how to leverage infrastructure as code (IaC) and DevSecOps patterns to automate, scale, and improve the security posture of cloud infrastructure and applications. We will create a pipeline that ensures our configurations are secure and compliant from code to cloud.
 
