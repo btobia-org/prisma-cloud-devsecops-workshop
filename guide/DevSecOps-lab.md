@@ -10,7 +10,7 @@ This guide provides step-by-step instructions to integrate **Prisma Cloud** (and
 
 
 
-## Table of Contents
+## Table of Contents Jan 2025
 
 - [Welcome](#welcome)
   - [Table of Contents ](#table-of-contents)
